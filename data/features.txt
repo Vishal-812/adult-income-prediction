@@ -1,0 +1,19 @@
+education: Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 9th,7th-8th, 12th, Masters, 1st-4th, 10th, Doctorate, 5th-6th, Preschool.
+    1: "Preschool",
+    2: "1st-4th",
+    3: "5th-6th",
+    4: "7th-8th",
+    5: "9th",
+    6: "10th",
+    7: "11th",
+    8: "12th",
+    9: "HS-grad",
+    10: "Some-college",
+    11: "Assoc-voc",
+    12: "Assoc-acdm",
+    13: "Bachelors",
+    14: "Masters",
+    15: "Prof-school",
+    16: "Doctorate"
+
+
